@@ -69,7 +69,8 @@ This portfolio is created to demonstrate my skills in:
 
 ## 📸 Project Preview
 
-![Task Manager](ADD_YOUR_IMAGE_LINK_HERE)
+<img width="1711" height="387" alt="image" src="https://github.com/user-attachments/assets/2a321901-5dc4-4a4b-9b1a-ac067eea2d69" />
+
 
 ---
 
